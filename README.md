@@ -107,7 +107,7 @@ test_scraping_amazon_reviews.py
 WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
 **Contribution**: 🤝
+*   Adina Nibijiang: `50%`
 *   Abhijit Kunjiraman: `50%`
-*   Adina : `50%`
 
 ---
